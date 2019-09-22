@@ -5,6 +5,7 @@ def hello_t (array)
     yeild array (array[i])
     i = i + 1
   end
+  array
 end
 
 h
