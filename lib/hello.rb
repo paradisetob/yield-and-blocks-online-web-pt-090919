@@ -3,11 +3,11 @@ def hello_t (array)
    i = 0
 
   while i < array.length
-    yeild array (array[i])
+    yeild array (array [i] )
     i = i + 1
   end
   array
 else
   put " Hey! No block was given"
-end
+ end
 end
