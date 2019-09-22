@@ -1,6 +1,6 @@
-def hello_t.each do |
+def hello_t.each do |names|
 
 
 end
 
-# call your method here!
+#
